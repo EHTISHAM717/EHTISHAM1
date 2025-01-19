@@ -53,9 +53,9 @@
   <p>Follow us on our social media platforms for updates and news!</p>
   
   <div class="social-links">
-    <a href="https://instagram.com/yourhandle" target="_blank">Instagram</a>
-    <a href="https://tiktok.com/@yourhandle" target="_blank">TikTok</a>
-    <a href="https://facebook.com/yourhandle" target="_blank">Facebook</a>
+    <a href="https://www.instagram.com/raja7408?igsh=MWdobHN6YXhqdGVlcQ%3D%3D&utm_source=qr" target="_blank">Instagram</a>
+    <a href="https://www.tiktok.com/@rajachand5?_t=ZN-8tC4mXZkbeo&_r=1" target="_blank">TikTok</a>
+    <a href="[https://facebook.com/yourhandle](https://www.facebook.com/share/1EA8if6E9G/?mibextid=LQQJ4d)" target="_blank">Facebook</a>
     <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a>
   </div>
 </body>
